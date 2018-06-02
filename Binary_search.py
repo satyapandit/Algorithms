@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[25]:
-
-
 # recursive solution of binary search for sorted array
 import math
 def binary_search(A,low,high,x):
